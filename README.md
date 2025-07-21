@@ -1,4 +1,4 @@
-# Khushi Jain · Developer | Learner | Creator
+# Khushi Jain  . Developer | Learner | Creator
 
 I'm a passionate and curious developer who thrives on building meaningful, creative, and impactful tech solutions. Whether it's backend logic or beautiful frontend interfaces, I love exploring diverse technologies that challenge me and expand my skillset.
 
